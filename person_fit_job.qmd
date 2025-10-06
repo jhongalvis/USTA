@@ -1,0 +1,23 @@
+---
+title: "Person Fit_job"
+format: html
+editor: visual
+---
+
+## Cargo Librerias
+
+```{r}
+
+library(psych)
+library(lavaan)
+library(semPlot)
+library(readxl)
+library(sjPlot)
+library(sjmisc)                   # para etiquetar si lo deseas
+library(psychometric)
+library(tidyverse)
+library(rms)     # ensure rms loads without error
+library(lordif)
+
+
+```
